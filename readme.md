@@ -6,7 +6,13 @@
 
 * Status Bar
 * BarCode Scanner
+* Camera
 
 ###### Cara mengintall aplikasi (dalam mode pengembangan) :
 
-* jalankan **npm start** atau **npx expo start**
+* git clone https://github.com/klstak/barcodeApp.git
+* cd barcodeApp
+* npm install
+
+
+* **npm start** atau **npx expo start**
